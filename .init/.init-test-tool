@@ -1,0 +1,4 @@
+{
+    "command": "npm run build",
+    "working_directory": "/home/kavia/workspace/code-generation/resume-analysis-collaboration-platform-281301-304270/resume_analysis_frontend"
+}
